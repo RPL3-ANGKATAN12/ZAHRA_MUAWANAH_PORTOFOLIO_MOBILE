@@ -12,6 +12,8 @@ import { RouterLink, RouterView } from "vue-router";
     </div>
   </header>
   <RouterView />
+
+  <footer>ini footer</footer>
 </template>
 
 <style scoped>
